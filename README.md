@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **.NET**
 
-💬 Ask me about **Node.js, React, Firebase, BootStrap, Tailwindui... 
+💬 Ask me about **Node.js, React, Firebase, BootStrap, Tailwindui...**
 
  </div>
  
