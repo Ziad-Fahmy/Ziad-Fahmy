@@ -54,7 +54,7 @@
     <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Fahmy&layout=compact&&langs_count=8"/>
 
     <!--
-   -- my state and grade 
+      my state and grade
     <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziad-Fahmy&show_icons=true&theme=transparent"/>
     -->
 
