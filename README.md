@@ -48,6 +48,13 @@
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+  ### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziad-Fahmy&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Fahmy&layout=compact&&langs_count=8"/>
+</div>
+
 </div>
 <!--
 **Ziad-Fahmy/Ziad-Fahmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
