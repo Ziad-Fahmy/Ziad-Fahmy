@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ziad-Fahmy.Ziad-Fahmy" />
 
 <h1 align="center">
@@ -46,8 +46,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+   <hr/>
+  <br/>
   ### My stats ⭐
 
 <div align="center">
@@ -55,7 +55,7 @@
 <!--
     <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziad-Fahmy&show_icons=true&theme=transparent"/>
 -->
-
+<br/><br/><br/>
 </div>
 
 </div>
