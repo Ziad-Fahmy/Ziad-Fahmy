@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFjbTlicHUzcXliMGVva3RxcnZqYjNpbW14czZrdHIwNWZ3dHpudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="140"/>
-  <iframe src="https://giphy.com/embed/Y2i6U8LoKmaIKZTQd1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  
 </div>
 
 
