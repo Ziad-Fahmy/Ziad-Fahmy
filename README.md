@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     </br>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ziad-Fahmy.Ziad-Fahmy" />
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ziad-Fahmy.Ziad-Fahmy" />
 </div>
 
 
