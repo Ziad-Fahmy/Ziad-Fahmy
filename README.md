@@ -51,11 +51,8 @@
   ### My stats ⭐
 
 <div align="center">
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Fahmy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    <! --
-   
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Fahmy&layout=compact&&langs_count=8"/>
-    -->
+
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Fahmy&layout=compact&theme=vision-friendly-darklangs_count=8"/>
 <!--
     <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziad-Fahmy&show_icons=true&theme=transparent"/>
 -->
