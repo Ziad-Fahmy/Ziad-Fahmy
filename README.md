@@ -18,7 +18,7 @@
  
  🔭 I’m currently working as Freelancer 
  
- 🌱 I’m currently learning **.NET**
+ 🌱currently learning **.NET**
 
 💬 Ask me about **Node.js, React, Firebase, BootStrap, Tailwindui...**
 
